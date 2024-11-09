@@ -1,4 +1,17 @@
-# Spring Boot Shopping Cart Web App
+# Spring Boot Shopping Cart Web App [Completed]
+
+## Pipeline Architecture Overview
+<p align="center">
+<img src="./images/2.png" alt="drawing"/>
+</p>
+
+---
+
+## Jenkins Dashboard Overview
+<p align="center">
+<img src="./images/1.png" alt="drawing"/>
+</p>
+
 
 ## About
 
